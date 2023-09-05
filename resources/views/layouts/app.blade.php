@@ -46,3 +46,5 @@
     </head>
 
         @yield('content')
+
+        @include('shared.footer')
