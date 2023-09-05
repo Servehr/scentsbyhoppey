@@ -14,7 +14,7 @@
 
                 </div>
                 <!-- End of Dropdown Menu -->
-                <span class="divider d-lg-show"></span>
+                <!-- <span class="divider d-lg-show"></span> -->
                 <a href="blog.html" class="d-lg-show">Blog</a>
                 <a href="contact-us.html" class="d-lg-show">Contact Us</a>
                 <a href="my-account.html" class="d-lg-show">My Account</a>

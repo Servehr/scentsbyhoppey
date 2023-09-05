@@ -15,7 +15,7 @@
                             <div class="dropdown category-dropdown has-border" data-visible="true">
                                 <a href="#" class="category-toggle text-dark" role="button" data-toggle="dropdown"
                                     aria-haspopup="true" aria-expanded="true" data-display="static"
-                                    title="Browse Categories" style="visibility:visible;">
+                                    title="Browse Categories" style="visibility:visible; background-color:#e9ccf6;">
                                     <i class="w-icon-category"></i>
                                     <span>All Categories</span>
                                 </a>
@@ -400,7 +400,7 @@
         </header>
         <!-- End of Header -->
 
-      
+
 
     <!-- End of Quick view -->
 @endsection
