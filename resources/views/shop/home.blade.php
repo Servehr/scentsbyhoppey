@@ -404,7 +404,7 @@
         <!-- Start of Main-->
         <main class="main">
 
-            <section class="intro-section" style="background-color:gray; height: 390px;">
+            <section class="intro-section" style="background-color:white; height: 390px;">
                 <div class="slideshow-container">
                     <div class="mySlides2">
                       <img src="img_band_chicago.jpg" style="width:100%">
